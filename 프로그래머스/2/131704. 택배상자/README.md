@@ -1,6 +1,6 @@
 # [level 2] 택배상자 - 131704 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131704?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131704) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 13일 10:08:34
+2024년 07월 13일 10:08:40
 
 ### 문제 설명
 
