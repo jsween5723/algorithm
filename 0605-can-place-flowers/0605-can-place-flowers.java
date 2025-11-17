@@ -22,8 +22,6 @@ class Solution {
                 flowerbed[i] = 1;
             }
         }
-        System.out.println(Arrays.toString(flowerbed));
-        System.out.println(n);
         return n <= 0;
     }
 }
